@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/NicolasOliva98/NicolasOliva98/blob/master/img/banner.png">
+<img align="right" width="500" height="500" src="https://github.com/NicolasOliva98/NicolasOliva98/blob/master/banner.png">
 
 # Hello, I'm Developer Full Stack.
 Full-Stack | Web | Mobile (React native)
