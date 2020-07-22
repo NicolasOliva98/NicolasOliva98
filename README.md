@@ -3,8 +3,8 @@
 # Hello, I'm Developer Full Stack.
 Full-Stack | Web | Mobile (React native)
 
-[![Github](https://img.shields.io/github/followers/NicolasOliva98?style=social)](https://github.com/DamianRincon)
-[![Github](https://img.shields.io/github/stars/NicolasOliva98/NicolasOliva98?style=social)](https://github.com/DamianRincon/DamianRincon)
+[![Github](https://img.shields.io/github/followers/NicolasOliva98?style=social)](https://github.com/NicolasOliva98)
+[![Github](https://img.shields.io/github/stars/NicolasOliva98/NicolasOliva98?style=social)](https://github.com/NicolasOliva98/NicolasOliva98)
 [![Github](https://img.shields.io/github/watchers/NicolasOliva98/NicolasOliva98?style=social)](https://github.com/NicolasOliva98/NicolasOliva98)
 
 ## About me
