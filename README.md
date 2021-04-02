@@ -1,6 +1,6 @@
 <img align="right" width="500" height="500" src="https://github.com/NicolasOliva98/NicolasOliva98/blob/master/thisbanner.png">
 
-# Hello, I'm Developer Full Stack.
+# Hi! I'm Full Stack Developer.
 Full-Stack | Web | Mobile (React native)
 
 [![Github](https://img.shields.io/github/followers/NicolasOliva98?style=social)](https://github.com/NicolasOliva98)
